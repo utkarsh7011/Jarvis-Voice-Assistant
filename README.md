@@ -1,3 +1,10 @@
+## How to Use
+1. Clone this repository.
+2. Run `sample.py` to register your face (required for Face Lock).
+3. Install all dependencies using `pip install -r requirements.txt`.
+4. Add your API keys to the config file.
+5. Run `main.py` to start the assistant.
+
 Introduction
 Jarvis is a voice-activated personal assistant with various functions such as managing schedules, checking internet speed, retrieving weather information, controlling media, and more. This assistant can also handle tasks like translating text, managing alarms, taking screenshots, and controlling system operations like shutdown, restart, and sleep mode.
 
